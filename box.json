@@ -1,0 +1,6 @@
+{
+    "files": ["src/Anonymise.php"],
+    "main": "bin/main",
+    "output": "dist/anonymise.phar",
+    "stub": true
+}
